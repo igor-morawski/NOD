@@ -3,6 +3,8 @@ _NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with 
 
 [Igor Morawski](https://igor-morawski.github.io/), Yu-An Chen, Yu-Sheng Lin, [Winston Hsu](https://winstonhsu.info/)
 
+## Please download the dataset using the [link](https://forms.gle/YhHYBofVjphosbeDA).
+
 ### Dataset Introduction
 We present a high-quality large-scale dataset of outdoor images targeting low-light object detection. The dataset contains more than 7K images and 46K annotated objects (with bounding boxes) that belong to classes: _person_, _bicycle_, and _car_. The photos were taken on the streets at evening hours, and thus all images present low-light conditions to a varying degree of severity. We used two DSLR cameras to capture the scenes: Sony RX100 VII and Nikon D750, and throughout the paper, we refer to the sets collected by these cameras as Sony and Nikon (data)set. We show the statistics of our dataset in the table below.
 
@@ -11,8 +13,6 @@ We present a high-quality large-scale dataset of outdoor images targeting low-li
 | Sony | Sony RX100 VII | 3 | 3.2k | 18.7k | 0.9k |
 | Nikon | Nikon D750 | 3 | 4.0k | 28.0k | 0 |
 | (in total) | Sony+Nikon | 3 | 7.2k | 46.7k | 0.9k |
-
-## Please download the dataset using the [link](https://forms.gle/YhHYBofVjphosbeDA).
 
 ### Citation
 If you find our dataset useful in your research or publication, please cite our work:
