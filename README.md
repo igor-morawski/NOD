@@ -12,7 +12,7 @@ We present a high-quality large-scale dataset of outdoor images targeting low-li
 |--- |--- |--- |--- |--- |--- |
 | Sony | Sony RX100 VII | 3 | 3.2k | 18.7k | 0.9k |
 | Nikon | Nikon D750 | 3 | 4.0k | 28.0k | 0 |
-| (in total) | Sony+Nikon | 3 | 7.2k | 46.7k | 0.9k |
+| NOD (in total) | Sony+Nikon | 3 | 7.2k | 46.7k | 0.9k |
 
 ### Citation
 If you find our dataset useful in your research or publication, please cite our work:
