@@ -18,7 +18,7 @@ We present a high-quality large-scale dataset of outdoor images targeting low-li
 
 ## Please download the dataset using the [link](https://forms.gle/YhHYBofVjphosbeDA).
 
-## Citation
+### Citation
 If you find our dataset useful in your research or publication, please cite our work:
 ```
 (to be provided)
@@ -26,3 +26,6 @@ If you find our dataset useful in your research or publication, please cite our 
 
 ### Contact
 Igor Morawski: [e-mail](mailto:igor@cmlab.csie.ntu.edu.tw), [LinkedIn](https://www.linkedin.com/in/igor-morawski/).
+
+### Acknowledgement
+This work was supported in part by the Ministry of Science and Technology, Taiwan, under Grant MOST 110-2634-F-002-026 and Qualcomm Technologies, Inc. We are grateful to the National Center for High-performance Computing.
