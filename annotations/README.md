@@ -42,5 +42,5 @@ True
 ## Notes
 * ```area``` is calculated as ```h*w``` of a bbox, 
 * image and anno. ```id```s are created by enumeration (from 0 to #img) for each JSON file separately! _I.e._, image and anno. 
-```id```s don't correspond to each other between annotation files. _E.g._, image with an ```"id":250``` doesn't ```NOD_Sony_RX100m7_test.json``` is NOT the same as image ```"id":250``` in ```NOD_Sony_Nikon_test.json```, 
+```id```s don't correspond to each other between annotation files. _E.g._, image with an ```"id":250``` in ```NOD_Sony_RX100m7_test.json``` is NOT the same as the image with the same ```"id":250``` in ```NOD_Sony_Nikon_test.json```, 
 * ```NOD_Sony_Nikon_{split}.json``` = ```NOD_Sony_RX100m7_{split}.json``` ∪ ```NOD_Nikon750_{split}.json```.
