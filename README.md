@@ -15,9 +15,16 @@ We present a high-quality large-scale dataset of outdoor images targeting low-li
 | NOD (in total) | Sony+Nikon | 3 | 7.2k | 46.7k | 0.9k |
 
 ### Citation
-If you find our dataset useful in your research or publication, please cite our work:
+If you find our dataset useful in your research or publication, please cite our work (accepted to BMVC 2021):
 ```
-(to be provided)
+@misc{morawski2021nod,
+      title={NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset}, 
+      author={Igor Morawski and Yu-An Chen and Yu-Sheng Lin and Winston H. Hsu},
+      year={2021},
+      eprint={2110.10364},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ### Contact
