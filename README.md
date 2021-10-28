@@ -1,7 +1,7 @@
 # NOD (Night Object Detection) Dataset
 _NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset_, BMVC 2021
 
-[Igor Morawski](https://igor-morawski.github.io/), Yu-An Chen, Yu-Sheng Lin, [Winston Hsu](https://winstonhsu.info/)
+[Igor Morawski](https://igor-morawski.github.io/), Yu-An Chen, Yu-Sheng Lin, [Winston H. Hsu](https://winstonhsu.info/)
 
 ## Please download the dataset using the [link](https://forms.gle/YhHYBofVjphosbeDA).
 
